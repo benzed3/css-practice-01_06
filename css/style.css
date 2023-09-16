@@ -25,6 +25,7 @@ h2 {
 
 .container {
     margin: 0 auto;
+    padding-left: 60px;
 }
 
 /*example of how to style multiple things*/
@@ -36,7 +37,7 @@ h2 {
 
 #bio-image {
     width: 200px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 #main-bio {
@@ -46,6 +47,7 @@ h2 {
 #contact-info {
     width: 30%;
     line-height: 1.5;
+    margin-left: -50px;
 }
 
 a {
