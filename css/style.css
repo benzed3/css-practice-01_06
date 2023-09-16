@@ -33,3 +33,21 @@ h2 {
 #bio-image {
     float: left;
 }
+
+#bio-image {
+    width: 200px;
+    margin-right: 10px;
+}
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+    line-height: 1.5;
+}
+
+a {
+    color: #d21034;
+}
